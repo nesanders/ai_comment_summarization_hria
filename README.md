@@ -4,7 +4,7 @@ This repository demonstrates using AI (LLM) agents built with LangChain
 to automatically summarize and generate information about legislative policy
 comments from the public.
 
-This code was developed during a collaboration with Health Resources in action
+This code was developed during a collaboration with Health Resources in Action
 to look at legislative testimony delivered in oral hearings at multiple stage 
 legislatures in October 2023. The AI models and methods used were selected
 at that point in time and are no longer the best available.
